@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>VETERINARIA</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="pink">
+    
+   <center> <u><h2 >BIENVENIDOS A TU CLINICA VETERINARIA</h2> </u></center>
+   <center> <u><h2 >DON GATO</h2> </u></center>
+   <form>
+    <center>  <img src="perrito.jpg"> </center>
+    <center>  <img src="perrito1.jpg"> </center>
+
+ <center> <em> <p> <POR ESTE MEDIO TE DAMOS LA BIENVENIDA A NUESTRO CONSULTORIO<br>
+  DONDE TE GARANTIZAMOS LOS CUIDADOS, ATENCION COMO SE MERECE NUESTRO AMIGO FIEL<br>
+DAMOS LAS GRACIAS POR CONFIAR EN NUESTRO TRABAJO </em> </p> </center>
+
+<h2>!!!!!!OFRECEMOS!!!!!!</h2>
+<ul>
+    <a href="#Corte"><li>Corte de Pelaje para tu Mascota</li></a> <br><br><br>
+ <h3 id ="volver"></h3>
+</ul>
+
+<ul>
+    <a href="#Corte"><li>Corte de Pelaje para tu Mascota</li></a>
+    <a href="#volver">volver</a>
+    <p>Si tienes perro, y sobre todo si es de una determinada raza <br>
+        que necesita unos cuidados especiales, como podría ser un caniche o un bichón maltés,<br>
+        quizás hayas pensado en cortarle el pelo, o hacerle un peinado especial.</br></br>
+
+        Por eso en Animales Mascotas queremos proponeros una <br>
+        serie de peinados y cortes de pelo para perros que no solo <br>
+        son originales, sino que te permitan estar convencido de que <br>
+        tu perro va a llevar un peinado que luzca y con el que<br>
+        todavía esté protegido. <br><br>
+
+        <img src="im.jpg"> <br><br>
+
+        Algunas razas de perro tienen realmente mucha cantidad de pelo,<br> 
+        y aunque no lo parezca, la mayoría de veces se debe a un motivo concreto. <br>
+        Por ejemplo, los perros de raza Husky tienen un pelo que muda<br>
+        dos veces al año, de modo que muchos dueños lo cortan, <br>
+        algo que no se debe hacer ya que debido a su naturaleza,<br>
+        el perro muda de pelo para adaptarse al frío del invierno o al calor <br>
+        del verano y si cortas ese pelo solo provocarás que tenga más frío o más calor.<br><br>
+    </p>
+  </ul>
+
+<center> <em><u><h3>DATOS PERSONALES DEL DUEÑO DE LA MASCOTA  </h3></u> </em></center>
+
+<label for="nombre y apellido">Nombre y Apellido: </label>
+ <input type="text"  id="nombre y apellido"  placeholder="ingrese su nombre y apellido"> 
+
+ <label for="Direccion">Direccion: </label>
+<input type="text" placeholder="Direccion">
+
+ <label for="Edad">Edad: </label>
+ <input type="number" name="" id="edad"> 
+
+ <label for="Telefono">Telefono: </label>
+ <input type="text" placeholder="Telefono"> 
+
+<button>¡¡ACEPTAR!!!</button> <br> <br>
+
+<center> <em><u><h3>DATOS PERSONALES DE LA MASCOTA</h3></u> </em></center>
+
+        <label for="nombre">Nombre: </label>
+         <input type="text"  id="nombre"  placeholder="ingrese el nombre"> 
+        
+        
+         <label for="Raza">Raza: </label>
+         <input type="text" placeholder="Raza">
+
+         <label for="Edad">Edad: </label>
+         <input type="number" name="" id="edad">  
+         
+        <button>¡¡ACEPTAR!!!</button> <br> <br>
+
+      <em><u><h6>SIGUENOS EN NUESTRAS REDES SOCIALES:</h6></u> </em>
+      <ol>
+      <li><a href="https://www.facebook.com" target="_black">Enlace a Facebook</a> <br></li>
+      <li><a href="https://www.Google.com" target="_black">Enlace a Google</a> </br></li>
+      <li><a href="https://www.Instagram.com" target="_black">Enlace a Instagram</a> <br></li>
+    </ol> <br><br><br>
+    <center><h1>¡¡¡¡¡GRACIAS POR PREFERIRNOS!!!!!!</h1></center>
+</form>
+</body>
+</html>
+
